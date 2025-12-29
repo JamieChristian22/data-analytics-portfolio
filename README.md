@@ -1,4 +1,4 @@
-# 📊 Data Analyst Portfolio — Job-Ready Projects
+# 📊 Data Analyst Portfolio — 
 
 **Author:** Jamie Christian  
 **Target Roles:** Data Analyst | Business Analyst | BI Analyst  
